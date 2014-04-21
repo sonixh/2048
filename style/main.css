@@ -2,7 +2,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: #00000; //#faf8ef; 
+  background: #faf8ef; 
   color: #776e65;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 18px; }
@@ -567,7 +567,7 @@ hr {
 
 .restart-button {
   display: inline-block;
-  background: #8f7a66;
+  background: #FF0000  //#8f7a66;
   border-radius: 3px;
   padding: 0 20px;
   text-decoration: none;
